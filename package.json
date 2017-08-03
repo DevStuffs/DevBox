@@ -1,0 +1,11 @@
+{
+  "name": "DevBox",
+  "version": "0.0.1",
+  "description": "Cloud based developer toolbox.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevStuffs/DevBox.git"
+  },
+  "author": "S.D Murphy",
+  "license": "MIT"
+}
